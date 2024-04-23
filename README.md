@@ -1,2 +1,3 @@
 # todo-cmd
-A simple cmd todo list written in Go.
+A cmd todo list with fuzzy finder written in Go.
+
